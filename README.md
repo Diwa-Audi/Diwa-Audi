@@ -31,7 +31,7 @@
 
 ---
 
-## 📈 GitHub Stats (Optional)
+## 📈 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Diwa-Audi&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
@@ -41,8 +41,8 @@
 
 ## 📫 Let's Connect
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-username) _(optional)_
+- 📧 Email: audichyadiwa1@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/diwa-audichya-35b3462b2/
 - 🌍 Portfolio: coming soon...
 
 ---
